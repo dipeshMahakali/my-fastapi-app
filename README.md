@@ -36,3 +36,6 @@ Bash
 
 uvx fastapi-new awesome-project
 This uses uvx to run the generator without even needing to install it first.
+
+# Command to install mysql-connector-python
+uv add mysql-connector-python
